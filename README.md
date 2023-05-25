@@ -1,4 +1,4 @@
-# CareerFoundry_SQL
+# SQL_Rockbuster
 Data analysis conducted in SQL for a project through CareerFoundry.  
 
 ## Objective 
